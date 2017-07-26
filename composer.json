@@ -1,0 +1,5 @@
+{
+    "name": "blastworksinc/php-rdkafka",
+    "type": "library",
+    "require": {}
+}
